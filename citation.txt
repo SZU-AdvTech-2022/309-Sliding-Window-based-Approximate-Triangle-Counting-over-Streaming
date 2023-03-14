@@ -1,0 +1,7 @@
+@inproceedings{REPO-310,
+    author = "Gou, Xiangyang and Zou, Lei",
+    booktitle = "{SIGMOD} '21: International Conference on Management of Data, Virtual Event, China, June 20-25, 2021",
+    pages = "645--657",
+    title = "{Sliding Window-based Approximate Triangle Counting over Streaming Graphs with Duplicate Edges}",
+    year = "2021"
+}
